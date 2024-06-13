@@ -1,0 +1,53 @@
+{
+    "quiz": {
+      "title": "Networks and Network Topologies Quiz",
+      "questions": [
+        {
+          "question": "What is the primary difference between a LAN and a WAN?",
+          "answers": [
+            "LANs cover a small geographical area, while WANs cover a wide geographical area.",
+            "LANs are faster than WANs in terms of data transmission.",
+            "LANs are owned by individuals, while WANs are owned by corporations."
+          ],
+          "correctAnswer": "LANs cover a small geographical area, while WANs cover a wide geographical area."
+        },
+        {
+          "question": "What is the function of a server in a network?",
+          "answers": [
+            "To provide information or services to other devices on the network.",
+            "To manage network security.",
+            "To connect LANs to WANs."
+          ],
+          "correctAnswer": "To provide information or services to other devices on the network."
+        },
+        {
+          "question": "What type of network topology uses a central hub or switch where all end devices are connected?",
+          "answers": [
+            "Bus topology",
+            "Ring topology",
+            "Star topology"
+          ],
+          "correctAnswer": "Star topology"
+        },
+        {
+          "question": "What is a disadvantage of the bus topology?",
+          "answers": [
+            "It requires more cable compared to other topologies.",
+            "It is more expensive to implement than other topologies.",
+            "If the main cable fails, the entire network goes down."
+          ],
+          "correctAnswer": "If the main cable fails, the entire network goes down."
+        },
+        {
+          "question": "Which network topology provides the highest degree of reliability due to its multiple interconnections?",
+          "answers": [
+            "Bus topology",
+            "Ring topology",
+            "Mesh topology"
+          ],
+          "correctAnswer": "Mesh topology"
+        }
+      ]
+    }
+  }
+  
